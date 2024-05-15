@@ -16,6 +16,7 @@
           "./package.json"
         ],
         "branch": false,
+        "clone": false,
         "resume": false
       }
     },
@@ -39,6 +40,7 @@
           "./package.json"
         ],
         "branch": false,
+        "clone": false,
         "resume": false
       }
     }
